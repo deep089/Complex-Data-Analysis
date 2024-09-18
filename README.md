@@ -83,15 +83,12 @@ pip install fuzzywuzzy[speedup] openpyxl pandas
 - **Threshold**: You can adjust the fuzzy matching threshold in the `threshold` variable.
 - **Column Selection**: Modify the column names used for comparison in the `fuzzy_match` function calls.
   
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Author
 
-[Your Name]
+Deep Patel
 
 ## Acknowledgments
 
 - This project uses the `fuzzywuzzy` library for fuzzy matching.
-- Special thanks to Google Colab for providing a free platform for running the script.
+
